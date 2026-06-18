@@ -123,13 +123,6 @@ fm-enhanced-data-hub/
 └── README.md
 ```
 
-## Getting started
-
-1. Create and activate a virtual environment.
-2. Install the required packages.
-3. Run the Streamlit app.
-4. Upload a test CSV.
-5. Start iterating feature by feature.
 
 Example commands:
 
